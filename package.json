@@ -1,6 +1,6 @@
 {
   "name": "node-delegate",
-  "version": "1.0.0",
+  "version": "1.0.1",
   "description": "performant object scope function [event] delegation like function.bind or jquery.proxy",
   "main": "index.js",
   "scripts": {
