@@ -1,4 +1,6 @@
 # node-delegate
+
+[![Greenkeeper badge](https://badges.greenkeeper.io/soenkekluth/node-delegate.svg)](https://greenkeeper.io/)
 performant object scope function [event] delegation like function.bind or jquery.proxy
 
 
